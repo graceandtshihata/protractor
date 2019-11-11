@@ -5,7 +5,7 @@ require("babel-register")({
 
 exports.config = {
     specs: ['specs/*Spec.js'],
-    baseUrl: 'http://qualityshepherd.com/angular',
+    baseUrl: 'http://localhost:3000',
 
     /**
      * to run on sauceLabs, create two env vars with your username and key

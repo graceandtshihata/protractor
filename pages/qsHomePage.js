@@ -19,7 +19,7 @@ class QsHomePage extends BasePage {
         // pagination
         this.prevPageLink = element(by.cssContainingText('a', '← Older Entries'));
 
-        this.url = 'http://qualityshepherd.com';
+        this.url = 'http://localhost:3000';
         // pageLoaded is used by `.loaded()` to test that we're on a page
         this.pageLoaded = this.and(
             this.hasText(this.siteTitle, 'Quality Shepherd'),

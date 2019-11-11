@@ -1,7 +1,7 @@
 {
-  "name": "protractor_example",
+  "name": "protractor",
   "version": "2.0.0",
-  "description": "An example Protractor project that makes use of page objects...",
+  "description": "Protractor project using page objects",
   "engines": {
     "node": "8.12.0"
   },
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https:mygitrepo gos here"
+    "url": "https://github.com/graceandtshihata/protractor"
   },
   "keywords": [
     "protractor",
@@ -24,9 +24,9 @@
   "author": "Grace",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/qualityshepherd/protractor_example/issues"
+    "url": "https://github.com/graceandtshihata/protractor/issues"
   },
-  "homepage": "https://github.com/qualityshepherd/protractor_example",
+  "homepage": "https://github.com/graceandtshihata/protractor",
   "dependencies": {
     "protractor": "5.4.2",
     "chance": "1.0.16",

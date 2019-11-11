@@ -14,7 +14,7 @@ exports.config = {
     SELENIUM_PROMISE_MANAGER: false,
 
     specs: ['specs/*Spec.js'],
-    baseUrl: 'https://qualityshepherd.com',
+    baseUrl: 'https://localhost:3000',
     framework: 'jasmine',
 
     onPrepare: () => {
